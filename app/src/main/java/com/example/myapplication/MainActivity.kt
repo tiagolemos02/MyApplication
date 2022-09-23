@@ -9,4 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     //teste de push para atualização de projeto em git
+
+    //teste 2 de comit and push
 }
